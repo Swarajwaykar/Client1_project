@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Debugger
+.vscode/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# Build artifacts
+dist/
+build/
+
+# IDE folders
+.idea/
+ 
